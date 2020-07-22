@@ -28,4 +28,4 @@ The corresponding author is Jamie Booth (jamie.booth at csun.edu).
 
 ## Acknowledgments
 
-This model is based on that introduced by [Noderer et al. (2007)](https://doi.org/10.1098/rspa.2007.1891), [Guidoni et al. (2010)](https://doi.org/10.1016/j.jmps.2010.07.009), and [Bacca et al. (2016)](https://doi.org/10.1016/j.jmps.2016.04.008).
+This model is based on those introduced by [Noderer et al. (2007)](https://doi.org/10.1098/rspa.2007.1891), [Guidoni et al. (2010)](https://doi.org/10.1016/j.jmps.2010.07.009), and [Bacca et al. (2016)](https://doi.org/10.1016/j.jmps.2016.04.008).
