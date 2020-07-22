@@ -16,7 +16,7 @@ All m-files contained in this repository should be downloaded and placed in the 
 
 ## Running
 
-Execute the main script, 'SphericalProbe_ExtractFibrilStrength.m' in MATLAB. The inputs should be provided using a consistent system of units for length and force e.g. if dimensions are provided in mm and the pull-off force in mN, then the Young's modulus should be provided in mN/(mm^2). The outputs provided will be consistent with this set of units - strain on a fibril at detachment (emax) is dimensionless, the fibril detachment force has dimensions of force, and the effective work of adhesion has dimensions of force per unit length.
+Execute the main script, 'SphericalProbe_ExtractFibrilStrength.m' in MATLAB. The inputs should be provided using a consistent system of units for length and force e.g. if dimensions are provided in mm and the pull-off force in mN, then the Young's modulus should be provided in mN/(mm^2). The outputs provided will be consistent with this set of units - strain on a fibril at detachment (emaxexp) is dimensionless, the fibril detachment force (fmaxexp) has dimensions of force, and the effective work of adhesion (Weffexp) has dimensions of force per unit length.
 
 ## Authors
 
