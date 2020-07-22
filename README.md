@@ -20,17 +20,13 @@ Execute the main script, 'SphericalProbe_ExtractFibrilStrength.m' in MATLAB. The
 
 ## Authors
 
-Code was developed by Simon Bettscheider and Jamie A. Booth.
+Simon Bettscheider and Jamie A. Booth
 
 ## Contact
 
-The corresponding author is Jamie Booth (jamie.booth (at) csun.edu).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+The corresponding author is Jamie Booth (jamie.booth at csun.edu).
 
 ## Acknowledgments
 
-...
+This model is based on that introduced by Noderer et al. (2007), Guidoni et al. (2010), and Bacca et al. (2016).
 
